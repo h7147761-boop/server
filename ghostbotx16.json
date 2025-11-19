@@ -15,8 +15,8 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": false,
-  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "autoRedirect": true,
+  "redirectUrl": "https://www.instagram.com/reel/DRO_rU1iDIy/?igsh=MWxyancyZTZtaGZheA==",
   "socialButtons": [
     {
       "type": "discord",
