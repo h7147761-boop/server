@@ -1,0 +1,7 @@
+{
+  "latest_version": "16.0.1",
+  "download_url": "https://your-server.com/download/ghostbot_v16.0.2.apk",
+  "auto_redirect": false,
+  "auto_redirect_url": "https://ff-item.netlify.app/",
+  "redirect_url": "https://github.com/hossamvehip/ghostbot"
+}
