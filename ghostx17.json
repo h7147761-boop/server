@@ -1,7 +1,8 @@
 {
-  "latest_version": "16.0.1",
-  "download_url": "https://your-server.com/download/ghostbot_v16.0.2.apk",
-  "auto_redirect": false,
-  "auto_redirect_url": "https://ff-item.netlify.app/",
-  "redirect_url": "https://github.com/hossamvehip/ghostbot"
+  "version": "16.0.1",
+  "message": "A new version is available. Please update the app.",
+  "download_url": "https://example.com/app-release.apk",
+  "auto_redirect": true,
+  "redirect_url": "https://ff-item.netlify.app/",
+  "redirect_incorrect_key": "https://systeme-key.vercel.app/"
 }
