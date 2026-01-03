@@ -1,5 +1,5 @@
 {
-  "version": "16.0.1",
+  "version": "17.0.1",
   "message": "A new version is available. Please update the app.",
   "download_url": "https://example.com/app-release.apk",
   "auto_redirect": true,
