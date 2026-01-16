@@ -1,8 +1,8 @@
 {
-  "version": "17.0.1",
-  "message": "A new version is available. Please update the app.",
-  "download_url": "",
-  "auto_redirect": false,
-  "redirect_url": "https://ghost-key.vercel.app/",
+  "version": "17.9.1",
+  "message": "A new version is available GHOST BOT x17 Fix 🛠️. Please update the app.",
+  "download_url": "https://www.mediafire.com/file/zsa5a015b1fptia/ghostbotx17(fix).apk/file",
+  "auto_redirect": true,
+  "redirect_url": "https://www.mediafire.com/file/zsa5a015b1fptia/ghostbotx17(fix).apk/file",
   "redirect_incorrect_key": "https://ghost-key.vercel.app/"
 }
