@@ -4,7 +4,7 @@
   "loginTitle": "Version : 17",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/reel/DTdZvyHiMRI/?igsh=aGd2b2dlMXI3cTl5",
+  "invalidKeyRedirect": "https://youtu.be/9kawyjaZEPg?si=IaFoXc8u9h3-pWtD",
   "validKeys": [
     "",
     ""
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://youtu.be/szyGrlJBxHs?si=WzUTkQxZs93DRl_k",
+  "redirectUrl": "https://youtu.be/9kawyjaZEPg?si=IaFoXc8u9h3-pWtD",
   "socialButtons": [
     {
       "type": "discord",
