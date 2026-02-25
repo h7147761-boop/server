@@ -1,10 +1,10 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT x",
   "loginTitle": "Version : 16",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "http://403.com",
+  "invalidKeyRedirect": "https://youtu.be/zsWKsGx4Y9I?si=qPkN_TXIXSvykMcX",
   "validKeys": [
     "",
     ""
