@@ -4,7 +4,7 @@
   "loginTitle": "Version : 16",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "",
+  "invalidKeyRedirect": "http://403.com",
   "validKeys": [
     "",
     ""
