@@ -1,10 +1,10 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "GHOST BOT x",
   "loginTitle": "Version : 16",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/zsWKsGx4Y9I?si=qPkN_TXIXSvykMcX",
+  "invalidKeyRedirect": "https://ghostfree.free.bg/",
   "validKeys": [
     "",
     ""
